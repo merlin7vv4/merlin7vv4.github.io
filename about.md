@@ -1,30 +1,23 @@
 ---
 layout: page
-title: About
+title: ''
+published: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  I always tell the truth, even when I lie.
+
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Bạn có thể liên lạc qua [Twitter](https://twitter.com/merlin7vv4)
 
-There are currently two themes built on Poole:
+## Cách làm 1 blog giống như mình
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Mình làm blog này dựa trên nguyên bản của [Hyde](https://github.com/poole/hyde), và có tham khảo thêm vài tính năng từ Blog của [Fredrik Averpil](https://github.com/fredrikaverpil/fredrikaverpil.github.io)
+### Những tài liệu mà mình tham khảo để làm ra
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [How to make a blog using Hyde (Jekyll) and host it on Github ](https://medium.com/@jashmehta3300/how-to-make-a-blog-using-hyde-jekyll-and-host-it-on-github-pages-42123c239b8)
+* [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
