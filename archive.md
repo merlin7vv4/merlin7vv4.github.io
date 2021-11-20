@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Bài Đăng
+title: Lưu trữ
+published: true
 ---
 
 {% for post in site.posts %}{{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})  
