@@ -26,6 +26,7 @@ version:          2.1.0
 github:
   repo:           
 
+excerpt_separator: <!--more-->
 
 plugins:
   - jekyll-paginate
