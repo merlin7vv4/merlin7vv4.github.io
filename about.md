@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Về mình
+title: About
 published: true
 ---
 
