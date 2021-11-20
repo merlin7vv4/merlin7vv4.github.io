@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lưu trữ
+title: Archive
 published: true
 ---
 
