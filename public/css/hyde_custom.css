@@ -75,12 +75,12 @@ html {
   color: #fff;
 }
 
-/* About section */
+/* About section */  /* tiêu đề lớn*/
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 5.25rem;
+  font-size: 3.25rem;
 }
 
 /* Sidebar nav */
